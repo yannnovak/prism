@@ -35,3 +35,17 @@ You can view the artwork here:
 This project was commissioned by Sonospace and was originally intended for their website.  
 Since Sonospace is no longer online, this version is self-hosted for posterity.  
 For other uses, please contact Yann Novak.
+
+## Project Structure
+```
+prism/
+├── assets/
+│   ├── audio.mp3
+│   ├── audio.ogg
+│   └── thumbnail.jpg
+├── .gitignore
+├── functions.js
+├── index.html
+├── README.md
+└── style.css
+```
