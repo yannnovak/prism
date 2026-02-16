@@ -6,31 +6,23 @@
 
 The original version of *Prism* used a jQuery audio player hosted by Sonospace. Since that site is no longer available, this version uses a simple play button and is self-hosted for archival and public viewing.
 
-&nbsp;
-
-## ✨ Features
+## Features
 
 - Animated, shifting-gradient background
 - Play/pause audio control
 - Responsive design
 
-&nbsp;
-
-## 🎬 Live Demo
+## Live Demo
 
 You can view the artwork here:  
 [https://www.yannnovak.com/prism](https://www.yannnovak.com/prism)
 
-&nbsp;
-
-## 🕹️ Usage
+## Usage
 
 - Click the play/pause button to start or stop the audio.
 - The visual elements animate automatically.
 
-&nbsp;
-
-## 📄 Credits
+## Credits
 
 - **Title:** Prism  
 - **Artist:** Yann Novak  
@@ -38,9 +30,7 @@ You can view the artwork here:
 - **Code & Sound:** Yann Novak  
 - **Copyright:** 2015 Yann Novak Studio
 
-&nbsp;
-
-## ℹ️ About the Project
+## About the Project
 
 This project was commissioned by Sonospace and was originally intended for their website.  
 Since Sonospace is no longer online, this version is self-hosted for posterity.  
